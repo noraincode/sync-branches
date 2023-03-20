@@ -55,6 +55,14 @@ Example: `'["js-team"]'`
 
 Default: `[]`
 
+### `LABELS`
+
+JSON array of label names that will be added to the PR.
+
+Example: `'["sync"]'`
+
+Default: `[]`
+
 ## Outputs
 
 ### `PULL_REQUEST_URL`
